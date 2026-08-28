@@ -49,20 +49,6 @@
 
 ---
 
-### LeetCode Progress
-
-<p>
-  <img src="https://leetcode-stats-nlp3rn9r5-alfaarghyas-projects.vercel.app/api?username=deepak_9080&theme=dark" alt="LeetCode Stats" />
-</p>
-
-> **450+ problems solved** — deep focus on graphs (topological sort, cycle detection), binary search, and heaps.
-
-*(If the badge above doesn't render, swap in [leetcode-stats-card](https://github.com/JacobLinCool/LeetCode-Stats-Card) or [leetcard.jacoblin.cool](https://leetcard.jacoblin.cool/deepak_9080?ext=heatmap) — both use your LeetCode username `deepak_9080`.)*
-
----
-
-### GitHub Stats
-
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=deeep8008&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeep8008&layout=compact&theme=tokyonight&hide_border=true" />
