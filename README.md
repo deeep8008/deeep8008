@@ -15,7 +15,7 @@
 
 -  Currently deepening my skills in the **MERN stack** (MongoDB, Express, React, Node.js)
 -  On an intensive **Data Structures & Algorithms** grind — **450+ problems solved on LeetCode**
--  Focus areas: graphs, binary search, h, and backend fundamentals (APIs, routing, CDNs, security)
+-  I'm really good at DP,GRAPHS,TREES,SLIDING WINDOW,BINARY SEARCH and backend fundamentals (APIs, routing, CDNs, security)
 -  Building toward a strong full-stack + DSA + AI foundation for remote engineering roles
 
 ---
