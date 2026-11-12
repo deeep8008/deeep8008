@@ -21,7 +21,14 @@ I like taking problems apart until I can explain why the solution works. Python 
 | **Backend** | Designing REST APIs, modeling data, and thinking through how systems handle failed requests. |
 | **Applied AI** | Retrieval-augmented generation (RAG), grounding answers in source material, and evaluating whether retrieval actually improves the answer. |
 
-**Tools I use** · Python, Java, Git, JavaScript, Node.js, Express, MongoDB, React
+## Tech stack
+
+| | |
+| :--- | :--- |
+| **Languages** | ![Python, Java, JavaScript](https://skillicons.dev/icons?i=py,java,js&theme=dark) |
+| **Backend & database** | ![Node.js, Express, MongoDB](https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark) |
+| **Frontend** | ![React, HTML, CSS, Tailwind CSS](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark) |
+| **Developer tools** | ![Git, GitHub, VS Code](https://skillicons.dev/icons?i=git,github,vscode&theme=dark) |
 
 ## Outside coding
 
