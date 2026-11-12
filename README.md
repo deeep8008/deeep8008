@@ -4,7 +4,6 @@
 <p align="center">B.Tech CSE (AI &amp; ML) · CMR Institute of Technology, Hyderabad · Class of 2027</p>
 
 <p align="center">
-  <a href="https://jinxdeep.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-29234A?style=flat-square&amp;logo=googlechrome&amp;logoColor=white"></a>
   <a href="https://leetcode.com/u/deepak_9080/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-29234A?style=flat-square&amp;logo=leetcode&amp;logoColor=FFA116"></a>
   <a href="https://www.linkedin.com/in/deepak-reddy-a2bba9395/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-29234A?style=flat-square&amp;logoColor=white"></a>
 </p>
